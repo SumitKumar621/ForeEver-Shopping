@@ -38,7 +38,7 @@ This is a complete **Full Stack E-commerce Web Application** built using the MER
 ### 📥 Step 1: Clone the Project
 
 ```bash
-git clone https://github.com/Keshav83/ForeEver-Shopping
+git clone https://github.com/SumitKumar621/ForeEver-Shopping
 cd forever-shopping
 ```
 
